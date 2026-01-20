@@ -1,0 +1,694 @@
+
+[Done] exited with code=1 in 847.687 seconds
+
+[Running] go run "c:\Users\SNEHAL\OneDrive\Desktop\program\basic\tempCodeRunnerFile.go"
+1.4142135623730951 2i
+
+[Done] exited with code=0 in 1.182 seconds
+
+[Running] go run "c:\Users\SNEHAL\OneDrive\Desktop\program\basic\tempCodeRunnerFile.go"
+27 >= 20
+9 20
+
+[Done] exited with code=0 in 0.934 seconds
+
+[Running] go run "c:\Users\SNEHAL\OneDrive\Desktop\program\basic\tempCodeRunnerFile.go"
+Iteration 1 : 1.5
+Iteration 2 : 1.4166666666666667
+Iteration 3 : 1.4142156862745099
+Iteration 4 : 1.4142135623746899
+Iteration 5 : 1.4142135623730951
+Iteration 6 : 1.414213562373095
+Iteration 7 : 1.4142135623730951
+Iteration 8 : 1.414213562373095
+Iteration 9 : 1.4142135623730951
+Iteration 10 : 1.414213562373095
+My Sqrt : 1.414213562373095
+math.Sqrt: 1.4142135623730951
+
+[Done] exited with code=0 in 1.187 seconds
+
+[Running] go run "c:\Users\SNEHAL\OneDrive\Desktop\program\basic\tempCodeRunnerFile.go"
+Iteration 1 : 1.5
+Iteration 2 : 1.4166666666666667
+Iteration 3 : 1.4142156862745099
+Iteration 4 : 1.4142135623746899
+Iteration 5 : 1.4142135623730951
+Iteration 6 : 1.414213562373095
+Iteration 7 : 1.4142135623730951
+Iteration 8 : 1.414213562373095
+Iteration 9 : 1.4142135623730951
+Iteration 10 : 1.414213562373095
+My Sqrt : 1.414213562373095
+math.Sqrt: 1.4142135623730951
+
+[Done] exited with code=0 in 1.138 seconds
+
+[Running] go run "c:\Users\SNEHAL\OneDrive\Desktop\program\basic\tempCodeRunnerFile.go"
+Go runs on windows.
+
+[Done] exited with code=0 in 1.184 seconds
+
+[Running] go run "c:\Users\SNEHAL\OneDrive\Desktop\program\basic\tempCodeRunnerFile.go"
+When's Saturday?
+Too far away.
+
+[Done] exited with code=0 in 1.034 seconds
+
+[Running] go run "c:\Users\SNEHAL\OneDrive\Desktop\program\basic\tempCodeRunnerFile.go"
+Good afternoon.
+
+[Done] exited with code=0 in 1 seconds
+
+[Running] go run "c:\Users\SNEHAL\OneDrive\Desktop\program\basic\tempCodeRunnerFile.go"
+hello
+world
+
+[Done] exited with code=0 in 1.186 seconds
+
+[Running] go run "c:\Users\SNEHAL\OneDrive\Desktop\program\basic\tempCodeRunnerFile.go"
+counting
+done
+9
+8
+7
+6
+5
+4
+3
+2
+1
+0
+
+[Done] exited with code=0 in 1.106 seconds
+
+[Running] go run "c:\Users\SNEHAL\OneDrive\Desktop\program\basic\tempCodeRunnerFile.go"
+42
+21
+73
+
+[Done] exited with code=0 in 1.14 seconds
+
+[Running] go run "c:\Users\SNEHAL\OneDrive\Desktop\program\basic\tempCodeRunnerFile.go"
+{1 2}
+
+[Done] exited with code=0 in 1.234 seconds
+
+[Running] go run "c:\Users\SNEHAL\OneDrive\Desktop\program\basic\tempCodeRunnerFile.go"
+4
+
+[Done] exited with code=0 in 1.151 seconds
+
+[Running] go run "c:\Users\SNEHAL\OneDrive\Desktop\program\basic\tempCodeRunnerFile.go"
+{1000000000 2}
+
+[Done] exited with code=0 in 1.162 seconds
+
+[Running] go run "c:\Users\SNEHAL\OneDrive\Desktop\program\basic\tempCodeRunnerFile.go"
+{1 2} &{1 2} {1 0} {0 0}
+
+[Done] exited with code=0 in 1.276 seconds
+
+[Running] go run "c:\Users\SNEHAL\OneDrive\Desktop\program\basic\tempCodeRunnerFile.go"
+Hello World
+[Hello World]
+[2 3 5 7 11 13]
+
+[Done] exited with code=0 in 1.127 seconds
+
+[Running] go run "c:\Users\SNEHAL\OneDrive\Desktop\program\basic\tempCodeRunnerFile.go"
+[3 5 7]
+
+[Done] exited with code=0 in 2.406 seconds
+
+[Running] go run "c:\Users\SNEHAL\OneDrive\Desktop\program\basic\slices like ref.go"
+[John Paul George Ringo]
+[John Paul] [Paul George]
+[John XXX] [XXX George]
+[John XXX George Ringo]
+
+[Done] exited with code=0 in 2.022 seconds
+
+[Running] go run "c:\Users\SNEHAL\OneDrive\Desktop\program\basic\tempCodeRunnerFile.go"
+[2 3 5 7 11 13]
+[true false true true false true]
+[{2 true} {3 false} {5 true} {7 true} {11 false} {13 true}]
+
+[Done] exited with code=0 in 2.055 seconds
+
+[Running] go run "c:\Users\SNEHAL\OneDrive\Desktop\program\basic\tempCodeRunnerFile.go"
+[3 5 7]
+[3 5]
+[5]
+[5]
+
+[Done] exited with code=0 in 1.912 seconds
+
+[Running] go run "c:\Users\SNEHAL\OneDrive\Desktop\program\basic\tempCodeRunnerFile.go"
+[3 5 7]
+[3 5]
+[3 5]
+[3 5]
+
+[Done] exited with code=0 in 1.873 seconds
+
+[Running] go run "c:\Users\SNEHAL\OneDrive\Desktop\program\basic\tempCodeRunnerFile.go"
+[3 5 7]
+[3 5]
+[5]
+[5]
+
+[Done] exited with code=0 in 0.496 seconds
+
+[Running] go run "c:\Users\SNEHAL\OneDrive\Desktop\program\basic\tempCodeRunnerFile.go"
+len=6 cap=6 [2 3 5 7 11 13]
+len=0 cap=6 []
+len=4 cap=6 [2 3 5 7]
+len=2 cap=4 [5 7]
+
+[Done] exited with code=0 in 1.939 seconds
+
+[Running] go run "c:\Users\SNEHAL\OneDrive\Desktop\program\basic\tempCodeRunnerFile.go"
+len=6 cap=6 [2 3 5 7 11 13]
+len=1 cap=6 [2]
+len=4 cap=6 [2 3 5 7]
+len=2 cap=4 [5 7]
+
+[Done] exited with code=0 in 1.814 seconds
+
+[Running] go run "c:\Users\SNEHAL\OneDrive\Desktop\program\basic\tempCodeRunnerFile.go"
+len=6 cap=6 [2 3 5 7 11 13]
+panic: runtime error: slice bounds out of range [:30] with capacity 6
+
+goroutine 1 [running]:
+main.main()
+	c:/Users/SNEHAL/OneDrive/Desktop/program/basic/tempCodeRunnerFile.go:10 +0x65
+exit status 2
+
+[Done] exited with code=1 in 1.893 seconds
+
+[Running] go run "c:\Users\SNEHAL\OneDrive\Desktop\program\basic\tempCodeRunnerFile.go"
+len=6 cap=6 [2 3 5 7 11 13]
+len=3 cap=6 [2 3 5]
+len=4 cap=6 [2 3 5 7]
+len=2 cap=4 [5 7]
+
+[Done] exited with code=0 in 1.8 seconds
+
+[Running] go run "c:\Users\SNEHAL\OneDrive\Desktop\program\basic\tempCodeRunnerFile.go"
+len=6 cap=6 [2 3 5 7 11 13]
+len=0 cap=6 []
+len=4 cap=6 [2 3 5 7]
+len=2 cap=4 [5 7]
+
+[Done] exited with code=0 in 0.54 seconds
+
+[Running] go run "c:\Users\SNEHAL\OneDrive\Desktop\program\basic\tempCodeRunnerFile.go"
+len=6 cap=6 [2 3 5 7 11 13]
+len=0 cap=6 []
+len=4 cap=6 [2 3 5 7]
+len=2 cap=4 [5 7]
+panic: runtime error: slice bounds out of range [:5] with capacity 4
+
+goroutine 1 [running]:
+main.main()
+	c:/Users/SNEHAL/OneDrive/Desktop/program/basic/tempCodeRunnerFile.go:21 +0xac
+exit status 2
+
+[Done] exited with code=1 in 1.909 seconds
+
+[Running] go run "c:\Users\SNEHAL\OneDrive\Desktop\program\basic\tempCodeRunnerFile.go"
+len=6 cap=6 [2 3 5 7 11 13]
+len=0 cap=6 []
+len=4 cap=6 [2 3 5 7]
+len=2 cap=4 [5 7]
+len=3 cap=4 [5 7 11]
+
+[Done] exited with code=0 in 1.842 seconds
+
+[Running] go run "c:\Users\SNEHAL\OneDrive\Desktop\program\basic\tempCodeRunnerFile.go"
+[] 0 0
+nil!
+
+[Done] exited with code=0 in 1.965 seconds
+
+[Running] go run "c:\Users\SNEHAL\OneDrive\Desktop\program\basic\tempCodeRunnerFile.go"
+a len=5 cap=5 [0 0 0 0 0]
+b len=0 cap=5 []
+c len=2 cap=5 [0 0]
+d len=3 cap=3 [0 0 0]
+
+[Done] exited with code=0 in 2.056 seconds
+
+[Running] go run "c:\Users\SNEHAL\OneDrive\Desktop\program\basic\slice of slice.go"
+X _ X
+O _ X
+_ _ O
+
+[Done] exited with code=0 in 1.688 seconds
+
+[Running] go run "c:\Users\SNEHAL\OneDrive\Desktop\program\basic\append.go"
+len=0 cap=0 []
+len=1 cap=1 [0]
+len=2 cap=2 [0 1]
+len=5 cap=6 [0 1 2 3 4]
+
+[Done] exited with code=0 in 1.981 seconds
+
+[Running] go run "c:\Users\SNEHAL\OneDrive\Desktop\program\basic\tempCodeRunnerFile.go"
+2**0 = 1
+2**1 = 2
+2**2 = 4
+2**3 = 8
+2**4 = 16
+2**5 = 32
+2**6 = 64
+2**7 = 128
+
+[Done] exited with code=0 in 1.989 seconds
+
+[Running] go run "c:\Users\SNEHAL\OneDrive\Desktop\program\basic\tempCodeRunnerFile.go"
+1
+2
+4
+8
+16
+32
+64
+128
+256
+512
+
+[Done] exited with code=0 in 1.754 seconds
+
+[Running] go run "c:\Users\SNEHAL\OneDrive\Desktop\program\basic\tempCodeRunnerFile.go"
+tempCodeRunnerFile.go:3:8: no required module provides package golang.org/x/tour/pic; to add it:
+	go get golang.org/x/tour/pic
+
+[Done] exited with code=1 in 0.149 seconds
+
+[Running] go run "c:\Users\SNEHAL\OneDrive\Desktop\program\basic\tempCodeRunnerFile.go"
+tempCodeRunnerFile.go:3:8: no required module provides package golang.org/x/tour/pic; to add it:
+	go get golang.org/x/tour/pic
+
+[Done] exited with code=1 in 0.161 seconds
+
+[Running] go run "c:\Users\SNEHAL\OneDrive\Desktop\program\basic\tempCodeRunnerFile.go"
+tempCodeRunnerFile.go:3:13: missing import path
+
+[Done] exited with code=1 in 0.235 seconds
+
+[Running] go run "c:\Users\SNEHAL\OneDrive\Desktop\program\basic\tempCodeRunnerFile.go"
+{40.68433 -74.39967}
+
+[Done] exited with code=0 in 1.924 seconds
+
+[Running] go run "c:\Users\SNEHAL\OneDrive\Desktop\program\basic\Map literal.go"
+map[Bell Labs:{40.68433 -74.39967} Google:{37.42202 -122.08408}]
+
+[Done] exited with code=0 in 1.844 seconds
+
+[Running] go run "c:\Users\SNEHAL\OneDrive\Desktop\program\basic\tempCodeRunnerFile.go"
+map[Bell Labs:{40.68433 -74.39967} Google:{37.42202 -122.08408}]
+
+[Done] exited with code=0 in 1.586 seconds
+
+[Running] go run "c:\Users\SNEHAL\OneDrive\Desktop\program\basic\tempCodeRunnerFile.go"
+map[Bell Labs:{40.68433 -74.39967} Google:{37.42202 -122.08408}]
+
+[Done] exited with code=0 in 0.547 seconds
+
+[Running] go run "c:\Users\SNEHAL\OneDrive\Desktop\program\basic\Mutating Maps.go"
+The value: 42
+The value: 48
+The value: 0
+The value: 0 Present? false
+
+[Done] exited with code=0 in 1.597 seconds
+
+[Running] go run "c:\Users\SNEHAL\OneDrive\Desktop\program\basic\tempCodeRunnerFile.go"
+tempCodeRunnerFile.go:5:2: no required module provides package golang.org/x/tour/wc; to add it:
+	go get golang.org/x/tour/wc
+
+[Done] exited with code=1 in 0.188 seconds
+
+[Running] go run "c:\Users\SNEHAL\OneDrive\Desktop\program\basic\tempCodeRunnerFile.go"
+# command-line-arguments
+.\tempCodeRunnerFile.go:24:2: undefined: wc
+
+[Done] exited with code=1 in 0.242 seconds
+
+[Running] go run "c:\Users\SNEHAL\OneDrive\Desktop\program\basic\exe maps.go"
+exe maps.go:6:2: no required module provides package golang.org/x/exercises/wordcount/wc; to add it:
+	go get golang.org/x/exercises/wordcount/wc
+
+[Done] exited with code=1 in 0.148 seconds
+
+[Running] go run "c:\Users\SNEHAL\OneDrive\Desktop\program\basic\function value.go"
+function value.go:1:1: expected 'package', found 'EOF'
+
+[Done] exited with code=1 in 0.076 seconds
+
+[Running] go run "c:\Users\SNEHAL\OneDrive\Desktop\program\basic\function value.go"
+function value.go:1:1: expected 'package', found 'EOF'
+
+[Done] exited with code=1 in 0.073 seconds
+
+[Running] go run "c:\Users\SNEHAL\OneDrive\Desktop\program\basic\function value.go"
+function value.go:1:1: expected 'package', found 'EOF'
+
+[Done] exited with code=1 in 0.065 seconds
+
+[Running] go run "c:\Users\SNEHAL\OneDrive\Desktop\program\basic\tempCodeRunnerFile.go"
+0 0
+1 -2
+3 -6
+6 -12
+10 -20
+15 -30
+21 -42
+28 -56
+36 -72
+45 -90
+
+[Done] exited with code=0 in 2.07 seconds
+
+[Running] go run "c:\Users\SNEHAL\OneDrive\Desktop\program\basic\tempCodeRunnerFile.go"
+0
+1
+1
+2
+3
+5
+8
+13
+21
+34
+
+[Done] exited with code=0 in 1.796 seconds
+
+[Running] go run "c:\Users\SNEHAL\OneDrive\Desktop\program\basic\tempCodeRunnerFile.go"
+5
+
+[Done] exited with code=0 in 1.898 seconds
+
+[Running] go run "c:\Users\SNEHAL\OneDrive\Desktop\program\basic\tempCodeRunnerFile.go"
+5
+
+[Done] exited with code=0 in 1.843 seconds
+
+[Running] go run "c:\Users\SNEHAL\OneDrive\Desktop\program\basic\tempCodeRunnerFile.go"
+1.4142135623730951
+
+[Done] exited with code=0 in 1.891 seconds
+
+[Running] go run "c:\Users\SNEHAL\OneDrive\Desktop\program\basic\tempCodeRunnerFile.go"
+50
+
+[Done] exited with code=0 in 1.92 seconds
+
+[Running] go run "c:\Users\SNEHAL\OneDrive\Desktop\program\basic\tempCodeRunnerFile.go"
+# command-line-arguments
+.\tempCodeRunnerFile.go:23:8: cannot use &v (value of type *Vertex) as Vertex value in argument to Scale
+
+[Done] exited with code=1 in 0.259 seconds
+
+[Running] go run "c:\Users\SNEHAL\OneDrive\Desktop\program\basic\tempCodeRunnerFile.go"
+50
+
+[Done] exited with code=0 in 1.905 seconds
+
+[Running] go run "c:\Users\SNEHAL\OneDrive\Desktop\program\basic\tempCodeRunnerFile.go"
+5
+
+[Done] exited with code=0 in 1.884 seconds
+
+[Running] go run "c:\Users\SNEHAL\OneDrive\Desktop\program\basic\tempCodeRunnerFile.go"
+# command-line-arguments
+.\tempCodeRunnerFile.go:23:8: cannot use &v (value of type *Vertex) as Vertex value in argument to Scale
+
+[Done] exited with code=1 in 0.279 seconds
+
+[Running] go run "c:\Users\SNEHAL\OneDrive\Desktop\program\basic\tempCodeRunnerFile.go"
+5
+
+[Done] exited with code=0 in 0.613 seconds
+
+[Running] go run "c:\Users\SNEHAL\OneDrive\Desktop\program\basic\tempCodeRunnerFile.go"
+{60 80} &{96 72}
+
+[Done] exited with code=0 in 1.91 seconds
+
+[Running] go run "c:\Users\SNEHAL\OneDrive\Desktop\program\basic\tempCodeRunnerFile.go"
+5
+5
+5
+5
+
+[Done] exited with code=0 in 1.852 seconds
+
+[Running] go run "c:\Users\SNEHAL\OneDrive\Desktop\program\basic\tempCodeRunnerFile.go"
+Before scaling: &{X:3 Y:4}, Abs: 5
+After scaling: &{X:15 Y:20}, Abs: 25
+
+[Done] exited with code=0 in 1.957 seconds
+
+[Running] go run "c:\Users\SNEHAL\OneDrive\Desktop\program\basic\tempCodeRunnerFile.go"
+5
+
+[Done] exited with code=0 in 4.572 seconds
+
+[Running] go run "c:\Users\SNEHAL\OneDrive\Desktop\program\basic\tempCodeRunnerFile.go"
+hello
+
+[Done] exited with code=0 in 1.93 seconds
+
+[Running] go run "c:\Users\SNEHAL\OneDrive\Desktop\program\basic\tempCodeRunnerFile.go"
+(&{Hello}, *main.T)
+Hello
+(3.141592653589793, main.F)
+3.141592653589793
+
+[Done] exited with code=0 in 1.861 seconds
+
+[Running] go run "c:\Users\SNEHAL\OneDrive\Desktop\program\basic\tempCodeRunnerFile.go"
+(<nil>, *main.T)
+<nil>
+(&{hello}, *main.T)
+hello
+
+[Done] exited with code=0 in 1.891 seconds
+
+[Running] go run "c:\Users\SNEHAL\OneDrive\Desktop\program\basic\interface nil.go"
+(<nil>, <nil>)
+panic: runtime error: invalid memory address or nil pointer dereference
+[signal 0xc0000005 code=0x0 addr=0x0 pc=0x7ff623d60579]
+
+goroutine 1 [running]:
+main.main()
+	c:/Users/SNEHAL/OneDrive/Desktop/program/basic/interface nil.go:12 +0x19
+exit status 2
+
+[Done] exited with code=1 in 2.129 seconds
+
+[Running] go run "c:\Users\SNEHAL\OneDrive\Desktop\program\basic\interface nil.go"
+(<nil>, <nil>)
+panic: runtime error: invalid memory address or nil pointer dereference
+[signal 0xc0000005 code=0x0 addr=0x0 pc=0x7ff7d6910579]
+
+goroutine 1 [running]:
+main.main()
+	c:/Users/SNEHAL/OneDrive/Desktop/program/basic/interface nil.go:12 +0x19
+exit status 2
+
+[Done] exited with code=1 in 0.547 seconds
+
+[Running] go run "c:\Users\SNEHAL\OneDrive\Desktop\program\basic\tempCodeRunnerFile.go"
+(<nil>, <nil>)
+(42, int)
+(hello, string)
+
+[Done] exited with code=0 in 2.093 seconds
+
+[Running] go run "c:\Users\SNEHAL\OneDrive\Desktop\program\basic\tempCodeRunnerFile.go"
+hello
+hello true
+0 false
+panic: interface conversion: interface {} is string, not float64
+
+goroutine 1 [running]:
+main.main()
+	c:/Users/SNEHAL/OneDrive/Desktop/program/basic/tempCodeRunnerFile.go:17 +0x13f
+exit status 2
+
+[Done] exited with code=1 in 2.093 seconds
+
+[Running] go run "c:\Users\SNEHAL\OneDrive\Desktop\program\basic\tempCodeRunnerFile.go"
+Twice 21 is 42
+"hello" is 5 bytes long
+I don't know about type bool!
+
+[Done] exited with code=0 in 1.818 seconds
+
+[Running] go run "c:\Users\SNEHAL\OneDrive\Desktop\program\basic\tempCodeRunnerFile.go"
+Arthur Dent (42 years) Zaphod Beeblebrox (9001 years)
+
+[Done] exited with code=0 in 1.906 seconds
+
+[Running] go run "c:\Users\SNEHAL\OneDrive\Desktop\program\basic\exe stringers.go"
+loopback: 127.0.0.1
+googleDNS: 8.8.8.8
+
+[Done] exited with code=0 in 1.658 seconds
+
+[Running] go run "c:\Users\SNEHAL\OneDrive\Desktop\program\basic\tempCodeRunnerFile.go"
+at 2026-01-20 16:18:09.4713122 +0530 IST m=+0.000000001, it didn't work
+
+[Done] exited with code=0 in 2.05 seconds
+
+[Running] go run "c:\Users\SNEHAL\OneDrive\Desktop\program\basic\reader.go"
+n = 8 err = <nil> b = [72 101 108 108 111 44 32 82]
+b[:n] = "Hello, R"
+n = 6 err = <nil> b = [101 97 100 101 114 33 32 82]
+b[:n] = "eader!"
+n = 0 err = EOF b = [101 97 100 101 114 33 32 82]
+b[:n] = ""
+
+[Done] exited with code=0 in 2.065 seconds
+
+[Running] go run "c:\Users\SNEHAL\OneDrive\Desktop\program\basic\tempCodeRunnerFile.go"
+(0,0)-(100,100)
+0 0 0 0
+
+[Done] exited with code=0 in 4.231 seconds
+
+[Running] go run "c:\Users\SNEHAL\OneDrive\Desktop\program\basic\tempCodeRunnerFile.go"
+# command-line-arguments
+.\tempCodeRunnerFile.go:6:2: "math" imported and not used
+
+[Done] exited with code=1 in 0.335 seconds
+
+[Running] go run "c:\Users\SNEHAL\OneDrive\Desktop\program\basic\tempCodeRunnerFile.go"
+# command-line-arguments
+.\tempCodeRunnerFile.go:6:2: "math" imported and not used
+
+[Done] exited with code=1 in 0.333 seconds
+
+[Running] go run "c:\Users\SNEHAL\OneDrive\Desktop\program\basic\tempCodeRunnerFile.go"
+1.414213562373095 <nil>
+0 cannot calculate square root of negative number
+
+[Done] exited with code=0 in 1.899 seconds
+
+[Running] go run "c:\Users\SNEHAL\OneDrive\Desktop\program\basic\tempCodeRunnerFile.go"
+tempCodeRunnerFile.go:3:8: no required module provides package golang.org/x/tour/reader; to add it:
+	go get golang.org/x/tour/reader
+
+[Done] exited with code=1 in 0.17 seconds
+
+[Running] go run "c:\Users\SNEHAL\OneDrive\Desktop\program\basic\tempCodeRunnerFile.go"
+tempCodeRunnerFile.go:3:8: no required module provides package golang.org/x/tour/reader; to add it:
+	go get golang.org/x/tour/reader
+
+[Done] exited with code=1 in 0.229 seconds
+
+[Running] go run "c:\Users\SNEHAL\OneDrive\Desktop\program\basic\tempCodeRunnerFile.go"
+# command-line-arguments
+.\tempCodeRunnerFile.go:16:21: cannot use &r (value of type *rot13Reader) as io.Reader value in argument to io.Copy: *rot13Reader does not implement io.Reader (missing method Read)
+
+[Done] exited with code=1 in 0.3 seconds
+
+[Running] go run "c:\Users\SNEHAL\OneDrive\Desktop\program\basic\tempCodeRunnerFile.go"
+# command-line-arguments
+.\tempCodeRunnerFile.go:16:21: cannot use r (variable of struct type rot13Reader) as io.Reader value in argument to io.Copy: rot13Reader does not implement io.Reader (missing method Read)
+
+[Done] exited with code=1 in 0.266 seconds
+
+[Running] go run "c:\Users\SNEHAL\OneDrive\Desktop\program\basic\readerrot exe.go"
+You cracked the code!
+[Done] exited with code=0 in 1.798 seconds
+
+[Running] go run "c:\Users\SNEHAL\OneDrive\Desktop\program\basic\tempCodeRunnerFile.go"
+2
+-1
+
+[Done] exited with code=0 in 1.961 seconds
+
+[Running] go run "c:\Users\SNEHAL\OneDrive\Desktop\program\basic\tempCodeRunnerFile.go"
+hello
+world
+world
+hello
+world
+hello
+hello
+world
+world
+hello
+
+[Done] exited with code=0 in 2.479 seconds
+
+[Running] go run "c:\Users\SNEHAL\OneDrive\Desktop\program\basic\tempCodeRunnerFile.go"
+-5 17 12
+
+[Done] exited with code=0 in 1.907 seconds
+
+[Running] go run "c:\Users\SNEHAL\OneDrive\Desktop\program\basic\tempCodeRunnerFile.go"
+Sent two values
+fatal error: all goroutines are asleep - deadlock!
+
+goroutine 1 [chan send]:
+main.main()
+	c:/Users/SNEHAL/OneDrive/Desktop/program/basic/tempCodeRunnerFile.go:14 +0x90
+exit status 2
+
+[Done] exited with code=1 in 2.191 seconds
+
+[Running] go run "c:\Users\SNEHAL\OneDrive\Desktop\program\basic\tempCodeRunnerFile.go"
+0
+1
+1
+2
+3
+5
+8
+13
+21
+34
+
+[Done] exited with code=0 in 1.213 seconds
+
+[Running] go run "c:\Users\SNEHAL\OneDrive\Desktop\program\basic\tempCodeRunnerFile.go"
+
+[Done] exited with code=1 in 9.436 seconds
+
+[Running] go run "c:\Users\SNEHAL\OneDrive\Desktop\program\basic\tempCodeRunnerFile.go"
+0
+1
+1
+2
+3
+5
+8
+13
+21
+34
+quit
+
+[Done] exited with code=0 in 3.048 seconds
+
+[Running] go run "c:\Users\SNEHAL\OneDrive\Desktop\program\basic\tempCodeRunnerFile.go"
+0
+1
+1
+2
+3
+5
+8
+13
+21
+34
+quit
+
+[Done] exited with code=0 in 0.396 seconds
+
